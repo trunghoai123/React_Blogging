@@ -10,4 +10,4 @@ các chứng năng chính:
  - Các Thư viện khác: 
   + Yup validation: form validation
   + sweetalert, react-toasify: thông báo
-  + uuid, axios, slugify, 
+  + uuid, axios, slugify, ...
