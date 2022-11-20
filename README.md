@@ -5,7 +5,7 @@ các chứng năng chính:
  - Thêm, xóa, sửa, cập nhật user/bài viết/danh mục.
  Công nghệ sử dụng.
  - Front-end: ReactJS.
- - Backend: Firebase.
+ - Backend: Firebase(authentication, storage, firebase database).
  - Styles: styled-components, SCSS, 
  - Các Thư viện khác: 
   + Yup validation: form validation
